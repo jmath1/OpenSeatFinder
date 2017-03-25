@@ -1,5 +1,12 @@
 # Elections
 
+First, install bundler and some gems:
+
+```
+$ gem install bundler
+$ bundle install
+```
+
 To get started, get your data:
 
 ```
