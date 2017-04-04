@@ -1,3 +1,6 @@
+require 'bundler/setup'
+Bundler.setup
+
 require 'json'
 require 'sinatra'
 require_relative 'elections'
